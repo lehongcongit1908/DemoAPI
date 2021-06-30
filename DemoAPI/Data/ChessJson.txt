@@ -1,0 +1,5 @@
+﻿[
+	{"id": "tuongden", "src":"Images/tuongden.svg", "top":69, "left":400, "visible": "inline"},
+	{"id": "tuongdo", "src":"Images/tuongdo.svg", "top":400, "left":326, "visible": "inline"},
+	{"id": "tuongden1", "src":"Images/tuongden1.svg", "top":-30, "left":253, "visible": "inline"}
+]
