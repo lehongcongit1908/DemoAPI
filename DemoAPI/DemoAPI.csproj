@@ -214,6 +214,7 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="hongkong4.html" />
     <Content Include="Images\bancotuong.jpg" />
     <Content Include="Images\quanco.jpg" />
     <Content Include="Images\tuongden.svg" />
